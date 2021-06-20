@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "johndoe"
+baseURL = "https://durooravsky.github.io"
+title = "Patasi Carbon Bikes Repairs"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,20 +12,20 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "John Doe"
-description = "John Doe's personal website"
-keywords = "blog,developer,personal"
-info = "Full Stack DevOps and Magician"
+author = "Patasi Carbon Bikes Repairs"
+description = "Patasi Carbon Bikes Repair in Smiths Falls, Ontario, Canada"
+keywords = "carbon bikes fix repair frames carbon bikes patasi"
+info = "Carbon Bikes Repair by Peter Patasi"
 avatarURL = "images/avatar.jpg"
-#gravatar = "john.doe@example.com"
-footerContent = "Enter a text here."
+gravatar = "peterpatasi@gmail.com"
+footerContent = "Patasi Carbon Bikes Repair in Smiths Falls, Ontario, Canada"
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = false
 hideCopyright = false
-since = 2019
+since = 2005
 # Git Commit in Footer, uncomment the line below to enable it
-commit = "https://github.com/luizdepra/hugo-coder/tree/"
+#commit = "https://github.com/luizdepra/hugo-coder/tree/"
 # Right To Left, shift content direction for languagues such as Arabic
 rtl = false
 # Specify light/dark colorscheme
@@ -33,7 +33,7 @@ rtl = false
 # "auto" (use preference set by browser)
 # "dark" (dark background, light foreground)
 # "light" (light background, dark foreground) (default)
-colorScheme = "auto"
+colorScheme = "dark"
 # Hide the toggle button, along with the associated vertical divider
 hideColorSchemeToggle = false
 # Series see also post count
@@ -48,9 +48,9 @@ customSCSS = []
 customJS = []
 
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
-# [params.fathomAnalytics]
-# siteID = "ABCDE"
-# serverURL = "analytics.example.com" # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+#[params.fathomAnalytics]
+#siteID = "ABCDE"
+#serverURL = "analytics.example.com" # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
 
 # If you want to use plausible(https://plausible.io) for analytics, add this section
 # [params.plausibleAnalytics]
@@ -75,23 +75,23 @@ customJS = []
 # id = "gid"
 
 # If you want to implement a Content-Security-Policy, add this section
-[params.csp]
-childsrc = ["'self'"]
-fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
-formaction = ["'self'"]
-framesrc = ["'self'"]
-imgsrc = ["'self'"]
-objectsrc = ["'none'"]
-stylesrc = [
-  "'self'",
-  "'unsafe-inline'",
-  "https://fonts.googleapis.com/",
-  "https://cdn.jsdelivr.net/"
-]
-scriptsrc = ["'self'", "'unsafe-inline'", "https://www.google-analytics.com"]
-prefetchsrc = ["'self'"]
-# connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
-connectsrc = ["'self'", "https://www.google-analytics.com"]
+#[params.csp]
+#childsrc = ["'self'"]
+#fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
+#formaction = ["'self'"]
+#framesrc = ["'self'"]
+#imgsrc = ["'self'"]
+#objectsrc = ["'none'"]
+#stylesrc = [
+#  "'self'",
+#  "'unsafe-inline'",
+#  "https://fonts.googleapis.com/",
+#  "https://cdn.jsdelivr.net/"
+#]
+#scriptsrc = ["'self'", "'unsafe-inline'", "https://www.google-analytics.com"]
+#prefetchsrc = ["'self'"]
+## connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
+#connectsrc = ["'self'", "https://www.google-analytics.com"]
 
 [taxonomies]
 category = "categories"
@@ -100,45 +100,24 @@ tag = "tags"
 author = "authors"
 
 [[params.social]]
-name = "Github"
-icon = "fa fa-github"
+name = "Email"
+icon = "fa fa-mail-forward"
 weight = 1
-url = "https://github.com/johndoe/"
-
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-gitlab"
-weight = 2
-url = "https://gitlab.com/johndoe/"
-
-[[params.social]]
-name = "Twitter"
-icon = "fa fa-twitter"
-weight = 3
-url = "https://twitter.com/johndoe/"
-
-[[params.social]]
-name = "LinkedIn"
-icon = "fa fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
-
-[[params.social]]
-name = "Medium"
-icon = "fa fa-medium"
-weight = 5
-url = "https://medium.com/@johndoe"
+url = "mailto:peterpatasi@gmail.com"
+rel = "alternate"
+type = "application/rss+xml"
 
 [[params.social]]
 name = "RSS"
 icon = "fa fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+weight = 2
+url = "https://www.peterpatasi.com/"
+rel = "external"
+target= "_blank"
+type = "application/html"
 
 [languages.en]
-languageName = ":uk:"
+languageName = ":en:"
 
 [[languages.en.menu.main]]
 name = "About"
@@ -146,47 +125,37 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Services"
 weight = 2
-url = "posts/"
-
-[[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
+url = "services/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
-weight = 5
+weight = 3
 url = "contact/"
 
-[languages.pt-br]
-languageName = ":brazil:"
-title = "João Ninguém"
+[languages.ca-fr]
+languageName = ":french:"
+title = "Patasi Carbon Bikes Repairs"
 
-[languages.pt-br.params]
-author = "João Ninguém"
-info = "Full Stack DevOps e Mágico"
-description = "Sítio pessoal de João Ninguém"
-keywords = "blog,desenvolvedor,pessoal"
-footerContent = "Coloque algum texto aqui."
+[languages.ca-fr.params]
+author = "Patasi Carbon Velo Repaires"
+info = "Carbon Bikes Repaires par Peter Patasi"
+description = "Patasi Carbon Bikes Website"
+keywords = "carbon bikes repair patasi repair smiths falls"
+footerContent = "Patasi Carbon Bikes Repair in Smiths Falls, Ontario, Canada"
 
-[[languages.pt-br.menu.main]]
-name = "Sobre"
+[[languages.ca-fr.menu.main]]
+name = "Moi"
 weight = 1
 url = "about/"
 
-[[languages.pt-br.menu.main]]
-name = "Blog"
+[[languages.ca-fr.menu.main]]
+name = "Service"
 weight = 2
-url = "posts/"
+url = "services/"
 
-[[languages.pt-br.menu.main]]
-name = "Projetos"
+[[languages.ca-fr.menu.main]]
+name = "Contactez Moi"
 weight = 3
-url = "projects/"
-
-[[languages.pt-br.menu.main]]
-name = "Contato"
-weight = 5
 url = "contact/"

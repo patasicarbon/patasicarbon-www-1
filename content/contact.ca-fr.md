@@ -4,9 +4,9 @@ date: 2021-06-17T14:47:42-04:00
 draft: true
 ---
 
-Contact me at 613-111-1111
+Contactez moi chez 613-111-1111
 
-__My Address__
+__Mon Address__
 
 --------------------
 

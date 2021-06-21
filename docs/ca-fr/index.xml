@@ -8,10 +8,10 @@
     <language>en</language><atom:link href="/ca-fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>/ca-fr/contact.html</link>
+      <link>/ca-fr/contact/</link>
       <pubDate>Thu, 17 Jun 2021 14:47:42 -0400</pubDate>
       
-      <guid>/ca-fr/contact.html</guid>
+      <guid>/ca-fr/contact/</guid>
       <description>Contactez moi chez 613-111-1111
 Mon Address
  Smiths Falls, Ontario Canada</description>
@@ -19,10 +19,10 @@ Mon Address
     
     <item>
       <title>Services</title>
-      <link>/ca-fr/services.html</link>
+      <link>/ca-fr/services/</link>
       <pubDate>Thu, 17 Jun 2021 14:47:34 -0400</pubDate>
       
-      <guid>/ca-fr/services.html</guid>
+      <guid>/ca-fr/services/</guid>
       <description>Je offre Carbon Bikes repairs aux priz competitive
 Suivre
  call me at send me picture drop off your bike wait in town for 3h or pickup next day  </description>
@@ -30,10 +30,10 @@ Suivre
     
     <item>
       <title>About</title>
-      <link>/ca-fr/about.html</link>
+      <link>/ca-fr/about/</link>
       <pubDate>Thu, 17 Jun 2021 14:46:19 -0400</pubDate>
       
-      <guid>/ca-fr/about.html</guid>
+      <guid>/ca-fr/about/</guid>
       <description>Je m&amp;rsquo;apelle Peter Patasi and I own carbon material
 Here we go A
  Here we go B</description>

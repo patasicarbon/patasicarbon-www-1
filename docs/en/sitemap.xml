@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/contact.html</loc>
+    <loc>/contact/</loc>
     <lastmod>2021-06-17T14:47:42-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="/ca-fr/contact.html"
+                href="/ca-fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/contact.html"
+                href="/contact/"
                 />
   </url><url>
-    <loc>/services.html</loc>
+    <loc>/services/</loc>
     <lastmod>2021-06-17T14:47:34-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="/ca-fr/services.html"
+                href="/ca-fr/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/services.html"
+                href="/services/"
                 />
   </url><url>
-    <loc>/about.html</loc>
+    <loc>/about/</loc>
     <lastmod>2021-06-17T14:46:19-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="/ca-fr/about.html"
+                href="/ca-fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about.html"
+                href="/about/"
                 />
   </url><url>
-    <loc>/authors.html</loc>
+    <loc>/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="/ca-fr/authors.html"
+                href="/ca-fr/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors.html"
+                href="/authors/"
                 />
   </url><url>
-    <loc>/categories.html</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="/ca-fr/categories.html"
+                href="/ca-fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories.html"
+                href="/categories/"
                 />
   </url><url>
     <loc>/</loc>
@@ -77,30 +77,30 @@
                 href="/"
                 />
   </url><url>
-    <loc>/projects.html</loc>
+    <loc>/projects/</loc>
   </url><url>
-    <loc>/series.html</loc>
+    <loc>/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="/ca-fr/series.html"
+                href="/ca-fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series.html"
+                href="/series/"
                 />
   </url><url>
-    <loc>/tags.html</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="/ca-fr/tags.html"
+                href="/ca-fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags.html"
+                href="/tags/"
                 />
   </url>
 </urlset>

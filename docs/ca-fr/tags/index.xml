@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Patasi Carbon Bikes Repairs</title>
-    <link>http://www.patasicarbon.ca/ca-fr/tags/</link>
+    <link>/ca-fr/tags.html</link>
     <description>Recent content in Tags on Patasi Carbon Bikes Repairs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.patasicarbon.ca/ca-fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/ca-fr/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

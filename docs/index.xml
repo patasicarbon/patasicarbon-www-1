@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patasi Carbon Bike Frames Repair</title>
-    <link>http://www.patasicarbon.ca/</link>
+    <link>/</link>
     <description>Recent content on Patasi Carbon Bike Frames Repair</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.patasicarbon.ca/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://www.patasicarbon.ca/contact/</link>
+      <link>/contact.html</link>
       <pubDate>Thu, 17 Jun 2021 14:47:42 -0400</pubDate>
       
-      <guid>http://www.patasicarbon.ca/contact/</guid>
+      <guid>/contact.html</guid>
       <description>Contact me at 613-111-1111
 My Address
  Smiths Falls, Ontario Canada</description>
@@ -19,10 +19,10 @@ My Address
     
     <item>
       <title>Services</title>
-      <link>http://www.patasicarbon.ca/services/</link>
+      <link>/services.html</link>
       <pubDate>Thu, 17 Jun 2021 14:47:34 -0400</pubDate>
       
-      <guid>http://www.patasicarbon.ca/services/</guid>
+      <guid>/services.html</guid>
       <description>I offer Carbon Bikes frames Repairs at reasonable price
 Here it how it works
  call me at send me picture drop off your bike wait in town for 3h or pickup next day  </description>
@@ -30,10 +30,10 @@ Here it how it works
     
     <item>
       <title>About</title>
-      <link>http://www.patasicarbon.ca/about/</link>
+      <link>/about.html</link>
       <pubDate>Thu, 17 Jun 2021 14:46:19 -0400</pubDate>
       
-      <guid>http://www.patasicarbon.ca/about/</guid>
+      <guid>/about.html</guid>
       <description>My name is Peter Patasi and I own carbon material
 Here we go A
  Here we go B</description>
@@ -41,10 +41,10 @@ Here we go A
     
     <item>
       <title>Projects</title>
-      <link>http://www.patasicarbon.ca/projects/</link>
+      <link>/projects.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.patasicarbon.ca/projects/</guid>
+      <guid>/projects.html</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     

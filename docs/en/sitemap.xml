@@ -2,105 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.patasicarbon.ca/contact/</loc>
+    <loc>/contact.html</loc>
     <lastmod>2021-06-17T14:47:42-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="http://www.patasicarbon.ca/ca-fr/contact/"
+                href="/ca-fr/contact.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.patasicarbon.ca/contact/"
+                href="/contact.html"
                 />
   </url><url>
-    <loc>http://www.patasicarbon.ca/services/</loc>
+    <loc>/services.html</loc>
     <lastmod>2021-06-17T14:47:34-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="http://www.patasicarbon.ca/ca-fr/services/"
+                href="/ca-fr/services.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.patasicarbon.ca/services/"
+                href="/services.html"
                 />
   </url><url>
-    <loc>http://www.patasicarbon.ca/about/</loc>
+    <loc>/about.html</loc>
     <lastmod>2021-06-17T14:46:19-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="http://www.patasicarbon.ca/ca-fr/about/"
+                href="/ca-fr/about.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.patasicarbon.ca/about/"
+                href="/about.html"
                 />
   </url><url>
-    <loc>http://www.patasicarbon.ca/authors/</loc>
+    <loc>/authors.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="http://www.patasicarbon.ca/ca-fr/authors/"
+                href="/ca-fr/authors.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.patasicarbon.ca/authors/"
+                href="/authors.html"
                 />
   </url><url>
-    <loc>http://www.patasicarbon.ca/categories/</loc>
+    <loc>/categories.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="http://www.patasicarbon.ca/ca-fr/categories/"
+                href="/ca-fr/categories.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.patasicarbon.ca/categories/"
+                href="/categories.html"
                 />
   </url><url>
-    <loc>http://www.patasicarbon.ca/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="http://www.patasicarbon.ca/ca-fr/"
+                href="/ca-fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.patasicarbon.ca/"
+                href="/"
                 />
   </url><url>
-    <loc>http://www.patasicarbon.ca/projects/</loc>
+    <loc>/projects.html</loc>
   </url><url>
-    <loc>http://www.patasicarbon.ca/series/</loc>
+    <loc>/series.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="http://www.patasicarbon.ca/ca-fr/series/"
+                href="/ca-fr/series.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.patasicarbon.ca/series/"
+                href="/series.html"
                 />
   </url><url>
-    <loc>http://www.patasicarbon.ca/tags/</loc>
+    <loc>/tags.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="http://www.patasicarbon.ca/ca-fr/tags/"
+                href="/ca-fr/tags.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.patasicarbon.ca/tags/"
+                href="/tags.html"
                 />
   </url>
 </urlset>

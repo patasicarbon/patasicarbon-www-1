@@ -1,7 +1,7 @@
 baseURL = "https://patasicarbon.github.io/patasicarbon-www-1/"
 relativeURLs = true
-uglyURLs = true
-canonifyURLs = true
+#uglyURLs = true
+#canonifyURLs = true
 
 title = "Patasi Carbon Frame Repairs"
 theme = "hugo-coder"

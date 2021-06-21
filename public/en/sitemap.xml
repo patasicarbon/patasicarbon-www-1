@@ -2,105 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/contact.html</loc>
+    <loc>https://patasicarbon.github.io/patasicarbon-www-1/contact.html</loc>
     <lastmod>2021-06-17T14:47:42-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="/ca-fr/contact.html"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/ca-fr/contact.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/contact.html"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/contact.html"
                 />
   </url><url>
-    <loc>/services.html</loc>
+    <loc>https://patasicarbon.github.io/patasicarbon-www-1/services.html</loc>
     <lastmod>2021-06-17T14:47:34-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="/ca-fr/services.html"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/ca-fr/services.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/services.html"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/services.html"
                 />
   </url><url>
-    <loc>/about.html</loc>
+    <loc>https://patasicarbon.github.io/patasicarbon-www-1/testemonials.html</loc>
+    <lastmod>2021-06-17T14:47:34-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca-fr"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/ca-fr/testemonials.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/testemonials.html"
+                />
+  </url><url>
+    <loc>https://patasicarbon.github.io/patasicarbon-www-1/about.html</loc>
     <lastmod>2021-06-17T14:46:19-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="/ca-fr/about.html"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/ca-fr/about.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about.html"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/about.html"
                 />
   </url><url>
-    <loc>/authors.html</loc>
+    <loc>https://patasicarbon.github.io/patasicarbon-www-1/authors.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="/ca-fr/authors.html"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/ca-fr/authors.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors.html"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/authors.html"
                 />
   </url><url>
-    <loc>/categories.html</loc>
+    <loc>https://patasicarbon.github.io/patasicarbon-www-1/categories.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="/ca-fr/categories.html"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/ca-fr/categories.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories.html"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/categories.html"
                 />
   </url><url>
-    <loc>/</loc>
+    <loc>https://patasicarbon.github.io/patasicarbon-www-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="/ca-fr/"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/ca-fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/"
                 />
   </url><url>
-    <loc>/projects.html</loc>
+    <loc>https://patasicarbon.github.io/patasicarbon-www-1/projects.html</loc>
   </url><url>
-    <loc>/series.html</loc>
+    <loc>https://patasicarbon.github.io/patasicarbon-www-1/series.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="/ca-fr/series.html"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/ca-fr/series.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series.html"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/series.html"
                 />
   </url><url>
-    <loc>/tags.html</loc>
+    <loc>https://patasicarbon.github.io/patasicarbon-www-1/tags.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="/ca-fr/tags.html"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/ca-fr/tags.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags.html"
+                href="https://patasicarbon.github.io/patasicarbon-www-1/tags.html"
                 />
   </url>
 </urlset>

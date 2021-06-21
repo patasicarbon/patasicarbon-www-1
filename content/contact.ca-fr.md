@@ -4,11 +4,11 @@ date: 2021-06-17T14:47:42-04:00
 draft: true
 ---
 
-Contactez moi chez 613-111-1111
+Peter Patasi  
+RR1 Bacchus Island
+Smiths Falls, ON  K7A 5B8 
+Canada  
 
-__Mon Address__
+Phone (613) 283-1645
 
---------------------
-
-
-__Smiths Falls, Ontario Canada__
+Email: patasiturbo@gmail.com

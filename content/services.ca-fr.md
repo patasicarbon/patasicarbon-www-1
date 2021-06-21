@@ -6,9 +6,26 @@ draft: true
 
 Je offre Carbon Bikes repairs aux priz competitive
 
-__Suivre__
+I am your carbon repair specialist at affordable price.
 
-* call me at
-* send me picture
-* drop off your bike
-* wait in town for 3h or pickup next day
+located in Smiths Falls, Ontario. 
+
+I service all Eastern and Southern Ontario as well as Western Quebec, 
+including Toronto, Kingston, Ottawa and Montreal
+
+I specialize in any repair work related to carbon materials
+
+    * inspection
+    * repair
+    * finishing
+    
+Working mainly on paddles and bicycle frames.
+
+With 30 years of experience working with carbon materials
+
+I am offering excellent customer service and typical repair times of less than 3 days,
+
+all for affordable price of $200 per frame repair 
+
+
+Contact me for more details

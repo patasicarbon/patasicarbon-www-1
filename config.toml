@@ -1,5 +1,9 @@
-baseURL = "https://durooravsky.github.io"
-title = "Patasi Carbon Bikes Repairs"
+baseURL = ""
+relativeURLs = true
+uglyURLs = true
+canonifyURLs = true
+
+title = "Patasi Carbon Bike Frames Repair"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"

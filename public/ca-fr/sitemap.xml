@@ -2,103 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://durooravsky.github.io/ca-fr/contact/</loc>
+    <loc>/ca-fr/contact.html</loc>
     <lastmod>2021-06-17T14:47:42-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://durooravsky.github.io/contact/"
+                href="/contact.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="https://durooravsky.github.io/ca-fr/contact/"
+                href="/ca-fr/contact.html"
                 />
   </url><url>
-    <loc>https://durooravsky.github.io/ca-fr/services/</loc>
+    <loc>/ca-fr/services.html</loc>
     <lastmod>2021-06-17T14:47:34-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://durooravsky.github.io/services/"
+                href="/services.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="https://durooravsky.github.io/ca-fr/services/"
+                href="/ca-fr/services.html"
                 />
   </url><url>
-    <loc>https://durooravsky.github.io/ca-fr/about/</loc>
+    <loc>/ca-fr/about.html</loc>
     <lastmod>2021-06-17T14:46:19-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://durooravsky.github.io/about/"
+                href="/about.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="https://durooravsky.github.io/ca-fr/about/"
+                href="/ca-fr/about.html"
                 />
   </url><url>
-    <loc>https://durooravsky.github.io/ca-fr/authors/</loc>
+    <loc>/ca-fr/authors.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://durooravsky.github.io/authors/"
+                href="/authors.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="https://durooravsky.github.io/ca-fr/authors/"
+                href="/ca-fr/authors.html"
                 />
   </url><url>
-    <loc>https://durooravsky.github.io/ca-fr/categories/</loc>
+    <loc>/ca-fr/categories.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://durooravsky.github.io/categories/"
+                href="/categories.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="https://durooravsky.github.io/ca-fr/categories/"
+                href="/ca-fr/categories.html"
                 />
   </url><url>
-    <loc>https://durooravsky.github.io/ca-fr/</loc>
+    <loc>/ca-fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://durooravsky.github.io/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="https://durooravsky.github.io/ca-fr/"
+                href="/ca-fr/"
                 />
   </url><url>
-    <loc>https://durooravsky.github.io/ca-fr/series/</loc>
+    <loc>/ca-fr/series.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://durooravsky.github.io/series/"
+                href="/series.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="https://durooravsky.github.io/ca-fr/series/"
+                href="/ca-fr/series.html"
                 />
   </url><url>
-    <loc>https://durooravsky.github.io/ca-fr/tags/</loc>
+    <loc>/ca-fr/tags.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://durooravsky.github.io/tags/"
+                href="/tags.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca-fr"
-                href="https://durooravsky.github.io/ca-fr/tags/"
+                href="/ca-fr/tags.html"
                 />
   </url>
 </urlset>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patasi Carbon Bikes Repairs</title>
-    <link>https://durooravsky.github.io/ca-fr/</link>
+    <link>/ca-fr/</link>
     <description>Recent content on Patasi Carbon Bikes Repairs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://durooravsky.github.io/ca-fr/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/ca-fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://durooravsky.github.io/ca-fr/contact/</link>
+      <link>/ca-fr/contact.html</link>
       <pubDate>Thu, 17 Jun 2021 14:47:42 -0400</pubDate>
       
-      <guid>https://durooravsky.github.io/ca-fr/contact/</guid>
+      <guid>/ca-fr/contact.html</guid>
       <description>Contactez moi chez 613-111-1111
 Mon Address
  Smiths Falls, Ontario Canada</description>
@@ -19,10 +19,10 @@ Mon Address
     
     <item>
       <title>Services</title>
-      <link>https://durooravsky.github.io/ca-fr/services/</link>
+      <link>/ca-fr/services.html</link>
       <pubDate>Thu, 17 Jun 2021 14:47:34 -0400</pubDate>
       
-      <guid>https://durooravsky.github.io/ca-fr/services/</guid>
+      <guid>/ca-fr/services.html</guid>
       <description>Je offre Carbon Bikes repairs aux priz competitive
 Suivre
  call me at send me picture drop off your bike wait in town for 3h or pickup next day  </description>
@@ -30,10 +30,10 @@ Suivre
     
     <item>
       <title>About</title>
-      <link>https://durooravsky.github.io/ca-fr/about/</link>
+      <link>/ca-fr/about.html</link>
       <pubDate>Thu, 17 Jun 2021 14:46:19 -0400</pubDate>
       
-      <guid>https://durooravsky.github.io/ca-fr/about/</guid>
+      <guid>/ca-fr/about.html</guid>
       <description>Je m&amp;rsquo;apelle Peter Patasi and I own carbon material
 Here we go A
  Here we go B</description>
